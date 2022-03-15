@@ -14,8 +14,8 @@ Instacart is an online grocery store that operates through an app. The Instacart
  - Are there differences in ordering habits based on customer's loyalty status, region, or order frequency? 
 
  ## Data
- - [Dataset]()
- - [Data Dictionary]() 
+ - [Dataset](https://github.com/tiltonneena/InstacartProject-Python/tree/main/OriginalData)
+ - [Data Dictionary](https://gist.github.com/jeremystan/c3b39d947d9b88b3ccff3147dbcf6c6b) 
  - “The Instacart Online Grocery Shopping Dataset 2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on Jan. 14th, 2022.
 
  
