@@ -1,7 +1,7 @@
 # Instacart Project
 
  ## Overview
-<img align= "right" src= " " width="250" height="250">
+<img align= "right" src= "https://github.com/tiltonneena/InstacartProject-Python/blob/main/produce.jpg" width="250" height="250">
 
 
 
