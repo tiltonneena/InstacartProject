@@ -20,7 +20,7 @@ Instacart is an online grocery store that operates through an app. The Instacart
 
  
  ## Tools Used
- - Python
+ - Python: pandas, numpy, scipy, matplot, seaborn
  - Jupyter Notebook
  - Excel
  
