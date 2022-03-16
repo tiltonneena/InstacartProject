@@ -25,6 +25,6 @@ Instacart is an online grocery store that operates through an app. The Instacart
  - Excel
  
  ## Project Deliverables
- - [Final Report]()
+ - [Final Report](https://github.com/tiltonneena/InstacartProject-Python/blob/main/Instacart_final_report.xlsx): including population flow, records of data wrangling and cleaning, column derivation, visualizations, and recommendations.  
  
  
