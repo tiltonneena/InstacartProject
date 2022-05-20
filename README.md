@@ -54,14 +54,46 @@ The data sets (with over 3 million rows) used for this analysis were made availa
       <em>Four separate datasets were merged into one main dataframe.</em>
     </p>
     
-### Step 2
-New variables were created by derivation and aggregation. 
+2. Once the dataframe was thoroughly cleaned, new variables were created by derivation and aggregation. 
 
-### Step 3
-Data visualizations were created, often using crosstabs, for better and easier communicating of key findings. 
+    <p align="center">
+      <img width="522" height="117" src="Images/pysc_dataderi.jpg"/>
+    </p>
+    <p align="center">
+      <em>One of the new variables created categorized<br>products into three pricing type.</em>
+    </p>
+<br>   
+    <p align="center">
+      <img width="522" height="162" src="Images/pysc_dataagg.jpg"/>
+    </p>
+    <p align="center">
+      <em>Newly created categorical variables were<br>aggregated for further insight.</em>
+    </p>
 
-### Step 4
-Finalized a full report of the analysis meant for stakeholders within Excel. 
+3. Data visualizations were created, often using crosstabs, for better and easier communicating of key findings. 
+
+    <p align="center">
+      <img width="400" height="268" src="Images/pyviz_ordertime.jpg"/>
+    </p>
+    <p align="center">
+      <em>Line chart made using Python showing the fluctuating<br>prices of items ordered throughout the day.</em>
+    </p>
+<br>   
+    <p align="center">
+      <img width="400" height="265" src="Images/pyviz_income.jpg"/>
+    </p>
+    <p align="center">
+      <em>Bar chart showing the distribution of customers<br>grouped by income range.</em>
+    </p>
+
+4. Finalized a full report of the analysis for the stakeholders in Excel. The report answered key questions, records of population flow (dataset merging), records of data cleaning/wrangling, column derivation, data visualizations, and recommendations to inform marketing strategies.   
+    
+    <p align="center">
+      <img width="519" height="540" src="Images/ExcelReport.jpg"/>
+    </p>
+    <p align="center">
+      <em>All data related questions were answered<br>on the final page of the report.</em>
+    </p>
 
 ## Key Findings
 -	Busiest days of the week were Saturday, Sunday, and Friday.
@@ -75,6 +107,6 @@ Finalized a full report of the analysis meant for stakeholders within Excel.
 
  ## Deliverable
  ### [Final Stakeholder Report](https://github.com/tiltonneena/InstacartProject-Python/blob/main/Instacart_final_report.xlsx): 
-including population flow, records of data wrangling and cleaning, column derivation, visualizations, and recommendations.  
+
  
  
