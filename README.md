@@ -98,10 +98,10 @@ The data sets (with over 3 million rows) used for this analysis were made availa
 ### Key Findings
 -	Busiest days of the week were Saturday, Sunday, and Friday.
 -	Orders between the hours of 12am to 9am were slow for obvious reasons, however, high potential present to increase sales between 3pm to 9pm, hence ads should be run during those hours. 
--	Customer loyalty amongst the customer base:
-    -	51.3% are Regular customers (10 - 40 orders)
-    -	33.2% are Loyal customers (40+ orders)
-    -	15.5% are New customers (less than 10 orders)
+-	Customer loyalty amongst the customer base:<br>
+      51.3% are Regular customers (10 - 40 orders)<br>
+      33.2% are Loyal customers (40+ orders)<br>
+      15.5% are New customers (less than 10 orders)
 -	Regardless of customer loyalty status, most customers were categorically “low spenders” and were frugally-minded, this is important to keep in mind when targeted ads are being crafted.
 -	The department with the highest sales was the produce department. 
 
