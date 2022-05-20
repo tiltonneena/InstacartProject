@@ -95,7 +95,7 @@ The data sets (with over 3 million rows) used for this analysis were made availa
       <em>All data related questions were answered<br>on the final page of the report.</em>
     </p>
 
-## Key Findings
+### Key Findings
 -	Busiest days of the week were Saturday, Sunday, and Friday.
 -	Orders between the hours of 12am to 9am were slow for obvious reasons, however, high potential present to increase sales between 3pm to 9pm, hence ads should be run during those hours. 
 -	Customer loyalty amongst the customer base:
@@ -105,8 +105,8 @@ The data sets (with over 3 million rows) used for this analysis were made availa
 -	Regardless of customer loyalty status, most customers were categorically “low spenders” and were frugally-minded, this is important to keep in mind when targeted ads are being crafted.
 -	The department with the highest sales was the produce department. 
 
- ## Deliverable
- ### [Final Stakeholder Report](https://github.com/tiltonneena/InstacartProject-Python/blob/main/Instacart_final_report.xlsx)
+### Deliverable
+### [Final Stakeholder Report](https://github.com/tiltonneena/InstacartProject-Python/blob/main/Instacart_final_report.xlsx)
  
 <p align="center">
   <img width="400" height="285" src="Images/final_image.jpg"/>
