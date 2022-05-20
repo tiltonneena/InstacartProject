@@ -25,28 +25,28 @@ The data sets (with over 3 million rows) used for this analysis were made availa
  
 ### Methodology
 1. Initial exploratory data analysis performed to first understand the large database, followed by data cleaning, wrangling, and merging. 
-<br> 
+
     <p align="center">
       <img width="519" height="196" src="Images/pysc_desc.jpg"/>
     </p>
     <p align="center">
       <em>Exploratory analysis was initialized by descriptive analysis.</em>
     </p>
-<br>   
+ 
     <p align="center">
       <img width="522" height="218" src="Images/pysc_finddups.jpg"/>
     </p>
     <p align="center">
       <em>Duplicated data was found by being sectioned off into a subset.</em>
     </p>   
-<br>
+
     <p align="center">
       <img width="522" height="40" src="Images/pysc_removedups.jpg"/>
     </p>
     <p align="center">
       <em>Once duplicated data was found, they were cleaned from the<br>main dataframe using a built in Python function.</em>
     </p>
-<br>   
+
     <p align="center">
       <img width="665" height="209" src="Images/popflowchart.jpg"/>
     </p>
@@ -62,7 +62,7 @@ The data sets (with over 3 million rows) used for this analysis were made availa
     <p align="center">
       <em>One of the new variables created categorized<br>products into three pricing type.</em>
     </p>
-<br>   
+
     <p align="center">
       <img width="522" height="162" src="Images/pysc_dataagg.jpg"/>
     </p>
@@ -78,7 +78,7 @@ The data sets (with over 3 million rows) used for this analysis were made availa
     <p align="center">
       <em>Line chart made using Python showing the fluctuating<br>prices of items ordered throughout the day.</em>
     </p>
-<br>   
+
     <p align="center">
       <img width="400" height="265" src="Images/pyviz_income.jpg"/>
     </p>
