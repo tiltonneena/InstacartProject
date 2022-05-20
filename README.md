@@ -10,7 +10,7 @@ Instacart, an online grocery service that operates through an app, is looking to
 ### Tools & Context
 - **Python:** this programming language was used to perform the bulk of the analysis, including data cleaning, wrangling, subsetting, merging, aggregating, and visualization. 
 - **Microsoft Excel:** final report presented in Excel, including analysis methodology, population flows, data visualizations, and final conclusions and recommendations on marketing strategy. 
-- **Jupyter Notebook:** this web-based interactive computing platform was used for streamlined documenting of all Python scripts.
+- **Jupyter Notebook:** this web-based interactive computing platform was used for streamlined documentation of all Python scripts.
 
 ### Data Source
 The data sets (with over 3 million rows) used for this analysis were made available by Instacart. [“The Instacart Online Grocery Shopping Dataset 2017”](https://www.instacart.com/datasets/grocery-shopping-2017) was accessed from the Instacart website on January 14th, 2022.  
