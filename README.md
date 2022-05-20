@@ -106,7 +106,12 @@ The data sets (with over 3 million rows) used for this analysis were made availa
 -	The department with the highest sales was the produce department. 
 
  ## Deliverable
- ### [Final Stakeholder Report](https://github.com/tiltonneena/InstacartProject-Python/blob/main/Instacart_final_report.xlsx): 
+ ### [Final Stakeholder Report](https://github.com/tiltonneena/InstacartProject-Python/blob/main/Instacart_final_report.xlsx)
+ 
+<p align="center">
+  <img width="400" height="285" src="Images/final_image.jpg"/>
+</p>
+   
 
  
  
